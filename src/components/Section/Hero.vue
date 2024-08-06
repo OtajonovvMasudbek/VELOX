@@ -15,7 +15,10 @@
             <h2 class="text-white text-[50px] font-bold translate-x-[180px] absolute translate-y-[-95px]">
              UIC IT ACADEMYDAN <span class="text-[50px] font-bold text-sky-500">“ LEVEL UP ”</span>  KURSI
             </h2>
-            <Description  title="Kurs haqida batafsil ma'lumotga ega bo'lish uchun quyida ariza qoldiring!"/>
+
+            <p class="text-[20px] translate-x-[300px] text-center font-bold max-w-[700px] text-white">
+              Kurs haqida batafsil ma'lumotga ega bo'lish uchun quyida ariza qoldiring!
+            </p>
             
           </div>
         </div>
