@@ -1,11 +1,11 @@
 <template>
-
-    <main>
-        <Hero/>
-    </main>
-        
+  <main>
+      <Header/>
+  </main>
 </template>
 
 <script setup>
-    import Hero from '../Section/Hero.vue';
+
+import Header from '../Leyaots/Header.vue';
+
 </script>

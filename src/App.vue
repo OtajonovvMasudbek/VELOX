@@ -1,13 +1,12 @@
 <template>
-   <Header/>
-   
-   <index/>
+      <Header/>
+      <index/>
 </template>
 
 <script setup>
+import Index from './components/Pages/index.vue'
+import Header from './components/Leyaots/Header.vue';
 
-
-   import  index from './components/Pages/index.vue'
-   import Header from './components/Leyaots/Header.vue';
- 
 </script>
+
+
